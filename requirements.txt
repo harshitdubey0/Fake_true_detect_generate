@@ -1,5 +1,0 @@
-streamlit
-requests
-
-No need to list pandas, numpy, scikit-learn, transformers, torch, accelerate here
-as they will be installed via conda in the Dockerfile
