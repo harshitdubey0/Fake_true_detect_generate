@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+nltk
+transformers
+torch
+accelerate
+streamlit
+requests
