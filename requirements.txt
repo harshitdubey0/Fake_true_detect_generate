@@ -1,9 +1,0 @@
-streamlit
-requests
-nltk
-pandas
-numpy
-scikit-learn
-transformers
-torch
-accelerate
